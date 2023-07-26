@@ -1,1 +1,3 @@
 # HashTable
+
+For this project, I worked on searching, removing, printing, and inserting bids into hashtables. I began with my insert function, and I moved on to my search function. From there I worked on the remove function before writing the print funtion. For this assignment, I used the tutor center to assit with roadblocks. It deepended my knowledge of how to write functions when others tie into another. For example, for the remove function to work, I had to write the search function first. It assisted me with naming conventions, so my finction names describe what the function does, to exclude so many comments to describe them.
